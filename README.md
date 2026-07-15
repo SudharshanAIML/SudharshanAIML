@@ -7,7 +7,7 @@
        </b></p>
     </td>
     <td valign="top" width="28%">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHRwc215ZHowMnUwb2pzbWoyb2RtcnUwcTNlZTJteTl3ZXZicXpnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Sudharshan R" width="200" height="240">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHRwc215ZHowMnUwb2pzbWoyb2RtcnUwcTNlZTJteTl3ZXZicXpnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Sudharshan R" width="240" height="240">
     </td> 
   </tr>
 </table>
