@@ -1,19 +1,38 @@
-## Hi there 👋 It's me Sudharshan R
+<table>
+  <tr>
+    <td valign="top" width="72%">
+      <h2>Hi there 👋 It's me Sudharshan R</h2>
+      <p><b>ICPC Regionalist 🏆, IEEE Research Author, 3X-National Level Hackathon Winner,<br> AWS Certified Cloud Practitioner, Agentic AI, GenAI | AI&ML Undergrad, Final Year <br><br> 
+      Passionate about: Building AI Models, AI system and Meaningful Innovations
+       </b></p>
+    </td>
+    <td valign="top" width="28%">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHRwc215ZHowMnUwb2pzbWoyb2RtcnUwcTNlZTJteTl3ZXZicXpnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Sudharshan R" width="300" height="240">
+    </td> 
+  </tr>
+</table>
 
-**AI Engineer | Full Stack Developer | Competitive Programmer | IEEE Research Author**  
-<img align="right" width="370" height="290" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHRwc215ZHowMnUwb2pzbWoyb2RtcnUwcTNlZTJteTl3ZXZicXpnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="AI Agent animation">  
-### About Me  
-<!-- - 🔗 Explore my [Portfolio](https://sudharshan-aiml.vercel.app/)   -->
-- 🌱 Currently diving deeper into **LLMs , Neural Networks, AI Systems and Linux**  
-- 👯 Open to collaborating on **AI/ML Projects**  
-<!-- - 🎯 Preparing for **product-based company placements**   -->
-- 💡 Let’s connect on **AI, full stack development, and system design**  
-- 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/sudharshan-aiml) [<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/SUDHARSHAN_AIML) [<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />](https://www.codechef.com/users/sudharshanr05) [<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />](https://codeforces.com/profile/sudharshan141105)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: 🧠 I enjoy turning ideas into real AI products!
+## 👾 HeatMap
 
-# 💻 Tech Stack:
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudharshanAIML/SudharshanAIML/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SudharshanAIML/SudharshanAIML/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/SudharshanAIML/SudharshanAIML/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
+  </picture>
+</p>
+
+
+## 🔗 Connect With Me
+[<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sudharshan141105@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/sudharshan-aiml) [<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/SUDHARSHAN_AIML) [<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />](https://www.codechef.com/users/sudharshanr05) [<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />](https://codeforces.com/profile/sudharshan141105) 
+
+## 🧑‍🔬 Researcher Profile
+
+- [<img src="https://img.shields.io/badge/IEEE-Xplore-003DA5?style=for-the-badge&logo=ieee&logoColor=white" />](https://ieeexplore.ieee.org/author/827583415506529)
+
+---
+
+## 💻 Tech Stack
 
 ## Languages & Basics:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -33,14 +52,19 @@
 ## Cloud & DevOps:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-# 📊 GitHub Stats:
+---
+
+## 📈 Contributions
+
 [![Sudharshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SudharshanAIML&bg_color=000000&color=fdf7fd&line=49f35d&point=fcf7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SudharshanAIML&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SudharshanAIML&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SudharshanAIML&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 
-## 🏆 GitHub Trophies
+## 🏆 LeetCode:
 ![](https://github-profile-trophy.vercel.app/?username=SudharshanAIML&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/SUDHARSHAN_AIML?ext=contest&theme=dark)](https://leetcode.com/SUDHARSHAN_AIML)
@@ -51,8 +75,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SudharshanAIML&icon=0&color=0)](https://visitcount.itsvg.in)
 
-##  Pac-Man Contribution Game
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SudharshanAIML/SudharshanAIML/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
-</p>
