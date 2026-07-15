@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Sudharshan R
 
 **AI Engineer | Full Stack Developer | Competitive Programmer | IEEE Research Author**  
-<img align="right" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Sudharshan coding animation">  
+<img align="right" width="370" height="290" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHRwc215ZHowMnUwb2pzbWoyb2RtcnUwcTNlZTJteTl3ZXZicXpnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="AI Agent animation">  
 ### About Me  
 <!-- - 🔗 Explore my [Portfolio](https://sudharshan-aiml.vercel.app/)   -->
 - 🌱 Currently diving deeper into **LLMs , Neural Networks, AI Systems and Linux**  
@@ -51,8 +51,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SudharshanAIML&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🐍 Contribution Snake
+##  Pac-Man Contribution Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SudharshanAIML/SudharshanAIML/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+  <img src="https://raw.githubusercontent.com/SudharshanAIML/SudharshanAIML/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
 </p>
